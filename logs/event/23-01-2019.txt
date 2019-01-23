@@ -1,3 +1,9 @@
 [01-23-2019 @ 17:33:22.608 GMT] [init.js:388] Bot modules loaded. Initializing main functions...
 [01-23-2019 @ 17:33:23.453 GMT] [logging.js:238] Starting Log Rotation
 [01-23-2019 @ 17:33:23.470 GMT] [logging.js:250] Finished Log Rotation
+[01-23-2019 @ 18:28:03.554 GMT] [init.js:388] Bot modules loaded. Initializing main functions...
+[01-23-2019 @ 18:28:07.057 GMT] [logging.js:238] Starting Log Rotation
+[01-23-2019 @ 18:28:07.321 GMT] [logging.js:250] Finished Log Rotation
+[01-23-2019 @ 18:32:40.029 GMT] [init.js:388] Bot modules loaded. Initializing main functions...
+[01-23-2019 @ 18:32:42.916 GMT] [logging.js:238] Starting Log Rotation
+[01-23-2019 @ 18:32:43.171 GMT] [logging.js:250] Finished Log Rotation

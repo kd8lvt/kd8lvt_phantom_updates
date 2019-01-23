@@ -3,7 +3,7 @@
 //Do NOT Modify! Overwritten when PhantomBot is restarted!
 var playerPort = 25003;
 var channelName = "kd8lvt";
-var auth="PNUoC8aHCCwbuJHfRToZQEOf0pM6XQ";
+var auth="EUarxXk0BQOfTAghmL8JWupmy5Vpbu";
 var http="http://";
 function getPlayerPort() { return playerPort; }
 function getChannelName() { return channelName; }

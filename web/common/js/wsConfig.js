@@ -4,7 +4,7 @@
 var panelSettings = {
     panelPort   : 25004,
     channelName : "kd8lvt",
-    auth        : "Iz4meD16kAzbAjVZFJ9ePvH6pvhIRs",
+    auth        : "AqemNRhQ6EB4T5JdXFtkCtbbDYWOjB",
     http        : "http://"
 };
 

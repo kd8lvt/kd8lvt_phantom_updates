@@ -1,0 +1,20 @@
+[01-23-2019 @ 18:32:06.334 GMT] java.lang.NullPointerException
+	at tv.phantombot.panel.PanelSocketServer.handleMessage(PanelSocketServer.java:267)
+	at tv.phantombot.panel.PanelSocketServer.access$000(PanelSocketServer.java:133)
+	at tv.phantombot.panel.PanelSocketServer$MessageRunnable.run(PanelSocketServer.java:1006)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+[01-23-2019 @ 18:32:11.100 GMT] java.lang.NullPointerException
+	at tv.phantombot.panel.PanelSocketServer.handleMessage(PanelSocketServer.java:267)
+	at tv.phantombot.panel.PanelSocketServer.access$000(PanelSocketServer.java:133)
+	at tv.phantombot.panel.PanelSocketServer$MessageRunnable.run(PanelSocketServer.java:1006)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+[01-23-2019 @ 18:39:26.413 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1109)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1066)
+	at java.lang.Thread.run(Thread.java:745)
+
+
